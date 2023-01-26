@@ -1,2 +1,7 @@
 # While-loops
-While loops in JS 
+
+var i = 0;
+while (i < 100) {
+ console.log(i);
+ i++;
+}
